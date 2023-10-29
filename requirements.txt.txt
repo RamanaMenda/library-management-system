@@ -1,0 +1,4 @@
+Python==3.10.4
+mysql-connector-python
+pandas>=1.4.0
+streamlit>=1.6.0
